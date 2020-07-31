@@ -48,13 +48,13 @@ change the file name as the source image in line number 10 and line number 12 of
 OffsetX and Offset Y would also have to be changed according to the images selected and the position of the source image in the target image.   
 
 # Description of files:
--script.py: runs the code by reading the source and target images, setting the offsets and calling createMask and seamlessCloningPoisson. 
--getIndexes.py: indexes the replacement pixels in the mask such that each element in x represents one replacement pixel
--getCoefficientMatrix.py: Computes the NxN (N is the number of replacement pixels) matrix A to get the intensities of replacement pixels by solving Ax=b. 
--getSolutionVect.py: generates the solution vector b in the linear system Ax = b.
--seamlessCloningPoisson.py: solves the equation Ax=b, by calling all the above functions for all three channels of the images and further calls reconstructImg
--reconstructImg : basically replaces the calculated replacement pixel intensities in the target image
--createMask.py: used to create the mask for the image    
+- script.py: runs the code by reading the source and target images, setting the offsets and calling createMask and seamlessCloningPoisson. 
+- getIndexes.py: indexes the replacement pixels in the mask such that each element in x represents one replacement pixel
+- getCoefficientMatrix.py: Computes the NxN (N is the number of replacement pixels) matrix A to get the intensities of replacement pixels by solving Ax=b. 
+- getSolutionVect.py: generates the solution vector b in the linear system Ax = b.
+- seamlessCloningPoisson.py: solves the equation Ax=b, by calling all the above functions for all three channels of the images and further calls reconstructImg
+- reconstructImg : basically replaces the calculated replacement pixel intensities in the target image
+- createMask.py: used to create the mask for the image    
 
 
 
