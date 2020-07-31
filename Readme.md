@@ -11,6 +11,7 @@ The objective of the assignment was to implement Image Blending to seamlessly bl
 ![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/2_output.jpeg?raw=true)
 
 <br>
+
 ![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_background.jpg?raw=true)
 ![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_source.jpg?raw=true)
 ![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_output.png?raw=true)
