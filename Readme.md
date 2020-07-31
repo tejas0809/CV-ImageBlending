@@ -1,5 +1,5 @@
-# "CIS581: Computer Vision and Computational Photography" - "Project 1B: Image Gradient Blending"
-# Name: Tejas Srivastava
+# "Image Gradient Blending"
+
 
 # Objective
 The objective of the assignment was to implement Image Blending to seamlessly blend an object from a source image into a target image. 
