@@ -5,13 +5,16 @@
 The objective of the assignment was to implement Image Blending to seamlessly blend an object from a source image into a target image. 
 
 # Results
-![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_background.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_source.jpg?raw=true)
-![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_output.png?raw=true)
-<br>
+
 ![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/2_background.jpg?raw=true)
 ![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/2_source.jpg?raw=true)
 ![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/2_output.jpeg?raw=true)
+
+<br>
+![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_background.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_source.jpg?raw=true)
+![alt text](https://github.com/tejas0809/CV-ImageBlending/blob/master/1_output.png?raw=true)
+
 
 
 
